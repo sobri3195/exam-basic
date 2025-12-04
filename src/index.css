@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+.btn-primary {
+  @apply bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-6 rounded-lg transition-colors duration-200 disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.btn-secondary {
+  @apply bg-gray-200 hover:bg-gray-300 text-gray-800 font-semibold py-2 px-6 rounded-lg transition-colors duration-200;
+}
+
+.card {
+  @apply bg-white rounded-xl shadow-md p-6;
+}
+
+.option-button {
+  @apply w-full text-left p-4 rounded-lg border-2 border-gray-200 hover:border-blue-400 transition-all duration-200 cursor-pointer;
+}
+
+.option-button.selected {
+  @apply border-blue-600 bg-blue-50;
+}
+
+.option-button.review-correct {
+  @apply border-green-600 bg-green-50;
+}
+
+.option-button.review-incorrect {
+  @apply border-red-600 bg-red-50;
+}
