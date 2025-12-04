@@ -1,0 +1,132 @@
+[
+  {
+    "id": "KL-001",
+    "subject": "Kesehatan Lingkungan",
+    "question": "Contoh upaya kesehatan lingkungan yang berperan dalam mencegah penyakit adalah…",
+    "options": [
+      "Konsumsi makanan berlemak",
+      "Pengelolaan air bersih dan sanitasi layak",
+      "Mengurangi jam tidur",
+      "Menghindari olahraga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Air bersih dan sanitasi yang baik mencegah penularan penyakit melalui air dan lingkungan yang tidak higienis."
+  },
+  {
+    "id": "KL-002",
+    "subject": "Kesehatan Lingkungan",
+    "question": "Penyakit yang dapat ditularkan melalui vektor nyamuk adalah…",
+    "options": [
+      "Tuberculosis",
+      "Malaria",
+      "HIV/AIDS",
+      "Hepatitis B"
+    ],
+    "answerIndex": 1,
+    "explanation": "Malaria adalah penyakit yang ditularkan melalui gigitan nyamuk Anopheles betina yang terinfeksi parasit Plasmodium."
+  },
+  {
+    "id": "GA-001",
+    "subject": "Gigi Anak",
+    "question": "Waktu ideal untuk anak melakukan sikat gigi adalah…",
+    "options": [
+      "Hanya pagi hari saja",
+      "Setelah makan dan sebelum tidur",
+      "Hanya malam hari saja",
+      "Seminggu sekali"
+    ],
+    "answerIndex": 1,
+    "explanation": "Menyikat gigi setelah makan dan sebelum tidur membantu membersihkan sisa makanan dan mencegah pembentukan plak."
+  },
+  {
+    "id": "GA-002",
+    "subject": "Gigi Anak",
+    "question": "Penyebab utama karies gigi pada anak adalah…",
+    "options": [
+      "Terlalu banyak minum air putih",
+      "Konsumsi makanan manis dan kurang menjaga kebersihan gigi",
+      "Terlalu sering sikat gigi",
+      "Tidak makan sayuran"
+    ],
+    "answerIndex": 1,
+    "explanation": "Karies gigi disebabkan oleh bakteri yang memfermentasi gula menjadi asam yang merusak email gigi, terutama jika kebersihan gigi kurang terjaga."
+  },
+  {
+    "id": "GZ-001",
+    "subject": "Gizi",
+    "question": "Zat gizi yang berfungsi sebagai sumber energi utama bagi tubuh adalah…",
+    "options": [
+      "Vitamin",
+      "Mineral",
+      "Karbohidrat",
+      "Air"
+    ],
+    "answerIndex": 2,
+    "explanation": "Karbohidrat merupakan sumber energi utama bagi tubuh yang diubah menjadi glukosa untuk aktivitas sel-sel tubuh."
+  },
+  {
+    "id": "GZ-002",
+    "subject": "Gizi",
+    "question": "Kekurangan vitamin A dapat menyebabkan…",
+    "options": [
+      "Anemia",
+      "Rabun senja",
+      "Gondok",
+      "Rakhitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kekurangan vitamin A dapat menyebabkan gangguan penglihatan terutama di malam hari (rabun senja/night blindness)."
+  },
+  {
+    "id": "KS-001",
+    "subject": "Kesehatan Ibu dan Anak",
+    "question": "ASI eksklusif diberikan kepada bayi hingga usia…",
+    "options": [
+      "3 bulan",
+      "6 bulan",
+      "9 bulan",
+      "12 bulan"
+    ],
+    "answerIndex": 1,
+    "explanation": "ASI eksklusif diberikan selama 6 bulan pertama kehidupan bayi tanpa tambahan makanan atau minuman lain untuk mendukung pertumbuhan optimal."
+  },
+  {
+    "id": "KS-002",
+    "subject": "Kesehatan Ibu dan Anak",
+    "question": "Pemeriksaan kehamilan minimal yang dianjurkan adalah…",
+    "options": [
+      "2 kali selama kehamilan",
+      "4 kali selama kehamilan",
+      "6 kali selama kehamilan",
+      "8 kali selama kehamilan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pemeriksaan kehamilan (ANC) minimal 4 kali: 1x trimester pertama, 1x trimester kedua, dan 2x trimester ketiga untuk memantau kesehatan ibu dan janin."
+  },
+  {
+    "id": "IM-001",
+    "subject": "Imunisasi",
+    "question": "Vaksin yang diberikan untuk mencegah penyakit tuberculosis (TBC) adalah…",
+    "options": [
+      "DPT",
+      "BCG",
+      "Hepatitis B",
+      "Polio"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vaksin BCG (Bacillus Calmette-Guérin) diberikan untuk mencegah penyakit tuberculosis (TBC) yang disebabkan oleh bakteri Mycobacterium tuberculosis."
+  },
+  {
+    "id": "IM-002",
+    "subject": "Imunisasi",
+    "question": "Tujuan utama dari program imunisasi adalah…",
+    "options": [
+      "Mengobati penyakit menular",
+      "Memberikan kekebalan tubuh terhadap penyakit tertentu",
+      "Mengurangi berat badan",
+      "Meningkatkan nafsu makan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Imunisasi bertujuan memberikan kekebalan aktif terhadap penyakit tertentu sehingga tubuh dapat melawan jika terpapar penyakit tersebut di kemudian hari."
+  }
+]
